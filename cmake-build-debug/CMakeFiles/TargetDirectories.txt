@@ -1,0 +1,3 @@
+/Users/haydenberens/CLionProjects/HeaderFiles/cmake-build-debug/CMakeFiles/HeaderFiles.dir
+/Users/haydenberens/CLionProjects/HeaderFiles/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/haydenberens/CLionProjects/HeaderFiles/cmake-build-debug/CMakeFiles/rebuild_cache.dir
